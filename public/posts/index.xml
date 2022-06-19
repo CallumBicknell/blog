@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Callum&#39;s InfoSec Blog</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Callum&#39;s InfoSec Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>#NoCoppyright © 2022</copyright>
+    <lastBuildDate>Sun, 19 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello User</title>
+      <link>/posts/information/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/information/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>
