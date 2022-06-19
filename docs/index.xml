@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Callum&#39;s InfoSec Blog</title>
-    <link>https://callumbicknell.github.io/blog/</link>
+    <link>/blog/</link>
     <description>Recent content on Callum&#39;s InfoSec Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>#NoCoppyright © 2022</copyright><atom:link href="https://callumbicknell.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>#NoCoppyright © 2022</copyright><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://callumbicknell.github.io/blog/about/</link>
+      <link>/blog/about/</link>
       <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://callumbicknell.github.io/blog/about/</guid>
+      <guid>/blog/about/</guid>
       <description>Hi There My name is Callum and I&amp;rsquo;m a 17 year old who is learning malware development.
 On this site I will be documenting my journey for myself and your help.</description>
       <content>&lt;h1 id=&#34;hi-there&#34;&gt;Hi There&lt;/h1&gt;
@@ -23,10 +23,10 @@ On this site I will be documenting my journey for myself and your help.</descrip
     
     <item>
       <title>Showcase</title>
-      <link>https://callumbicknell.github.io/blog/showcase/</link>
+      <link>/blog/showcase/</link>
       <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://callumbicknell.github.io/blog/showcase/</guid>
+      <guid>/blog/showcase/</guid>
       <description>Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
       <content>&lt;h2 id=&#34;header-2&#34;&gt;Header 2&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;

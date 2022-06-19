@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://callumbicknell.github.io/blog/about/</loc>
+    <loc>/blog/about/</loc>
     <lastmod>2022-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://callumbicknell.github.io/blog/showcase/</loc>
+    <loc>/blog/showcase/</loc>
     <lastmod>2022-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://callumbicknell.github.io/blog/</loc>
+    <loc>/blog/</loc>
   </url><url>
-    <loc>https://callumbicknell.github.io/blog/categories/</loc>
+    <loc>/blog/categories/</loc>
   </url><url>
-    <loc>https://callumbicknell.github.io/blog/tags/</loc>
+    <loc>/blog/tags/</loc>
   </url>
 </urlset>

@@ -1,4 +1,4 @@
-baseurl = "https://callumbicknell.github.io/blog/"
+baseurl = "/blog/"
 languageCode = "en-gb"
 theme = "terminal"
 paginate = 5
